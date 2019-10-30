@@ -14,6 +14,7 @@ django-contries = "*"
 django-countries = "*"
 django-seed = "*"
 contries = "*"
+django-dotenv = "*"
 
 [requires]
 python_version = "3.7"
